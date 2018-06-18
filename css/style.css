@@ -228,6 +228,12 @@ header {
 #navbar nav a {
   display: inline-block;
   width: 16.666667%;
+  margin: 0;
+  padding: 22px 0;
+  text-transform: uppercase;
+  color:black;
+  text-align: center;
+  border-right: 1px solid #ccc;
 }
 
 /*////////// LOGO //////////*/
